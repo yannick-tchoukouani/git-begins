@@ -8,4 +8,6 @@ Les commandes qui permettent de :
 	git commit -m "Message du commit"
 	git push origin master
 
+La commande qui permet de pull est la suivante : 
+	git pull origiin master 
 
