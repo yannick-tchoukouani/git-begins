@@ -1,0 +1,11 @@
+Les commandes qui permettent de : 
+
+- cloner un repository: 
+	git clone https://github.com/yannick-tchoukouani/git-begins.git
+
+- push, il y'en a 3 : 
+	git add.
+	git commit -m "Message du commit"
+	git push origin master
+
+
