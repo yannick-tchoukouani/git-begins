@@ -11,3 +11,8 @@ Les commandes qui permettent de :
 La commande qui permet de pull est la suivante : 
 	git pull origiin master 
 
+La commande qui permet de créer une nouvelle branche : 
+	git branch add-create-branch-command
+
+La commande pour ensuite basculer vers celle-ci : 
+	git checkout add-create-branch-command
